@@ -3,7 +3,7 @@ This is a local fork of the HealthEstimate Module for FoundryVTT that provides s
 You can test/use this fork with this manifest link: https://raw.githubusercontent.com/DarthBanjo/healthEstimate/master/module.json
 Or wait for the pull request for the main version.
 
-# Health Estimate
+# Health Estimate (OpenD6 Space Support)
 
 A simple module for showing estimated health level of an enemy on mouseover, similar to Baldur's Gate games.  
 ![example](example.png)  
